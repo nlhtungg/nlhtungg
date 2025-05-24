@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Tung, i'm a junior at SOICT, HUST (Hanoi)
+
 🌱 I’m currently learning Data Engineering and Data Analysis
 
 <h3>🛠 Languages and Tools :</h3>
