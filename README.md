@@ -1,11 +1,17 @@
 ## Hi there 👋
 
-My name is Tung, i'm a senior at SOICT, HUST.
+My name is Tung, i'm a senior student at SOICT, HUST.
 
-🌱 I’m currently learning Data Engineering and Software Engineering
+🌱 I’m currently into Data Engineering and Software Engineering.
 
-<h3>🛠 Languages and Tools :</h3>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nlhtungg&layout=pie&theme=dracula&hide_border=true" /></a> |
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nlhtungg&layout=pie&theme=dracula&hide_border=true&size_weight=0.8&count_weight=0.2&langs_count=4" />
+</a> 
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=nlhtungg&show_icons=true&theme=tokyonight&hide_rank=true" />
+</a>
+
 <!--
 **nlhtungg/nlhtungg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
