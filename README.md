@@ -6,6 +6,8 @@ My name is Tung, i'm a senior student at SOICT, HUST.
 
 ![Stats](./profile/stats.svg)
 
+![Top Languages](./profile/top-langs.svg)
+
 <!--
 **nlhtungg/nlhtungg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
